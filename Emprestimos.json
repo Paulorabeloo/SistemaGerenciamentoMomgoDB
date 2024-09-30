@@ -1,0 +1,43 @@
+[
+    {
+      "_id": "648f6c9f1f789f65c1e56789",
+      "livro_id": "648f6c9f1f789f65c1e12345", 
+      "usuario_id": "648f6c9f1f789f65c1e45679", 
+      "data_emprestimo": "2023-08-01",
+      "data_devolucao": "2023-08-15",
+      "status": "devolvido"
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e56790",
+      "livro_id": "648f6c9f1f789f65c1e12346", 
+      "usuario_id": "648f6c9f1f789f65c1e45680", 
+      "data_emprestimo": "2023-08-05",
+      "data_devolucao": "2023-08-20",
+      "status": "devolvido"
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e56791",
+      "livro_id": "648f6c9f1f789f65c1e12349", 
+      "usuario_id": "648f6c9f1f789f65c1e45680", 
+      "data_emprestimo": "2023-08-10",
+      "data_devolucao": "2023-08-24",
+      "status": "devolvido"
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e56792",
+      "livro_id": "648f6c9f1f789f65c1e12348", 
+      "usuario_id": "648f6c9f1f789f65c1e45682", 
+      "data_emprestimo": "2023-08-15",
+      "data_devolucao": "2023-08-29",
+      "status": "pendente"
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e56793",
+      "livro_id": "648f6c9f1f789f65c1e12347", 
+      "usuario_id": "648f6c9f1f789f65c1e45678", 
+      "data_emprestimo": "2023-08-20",
+      "data_devolucao": "2023-09-03",
+      "status": "pendente"
+    }
+  ]
+  

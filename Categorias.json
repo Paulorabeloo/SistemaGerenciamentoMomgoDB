@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "648f6c9f1f789f65c1e45678",
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "data_cadastro": "2023-01-15",
+      "livros_emprestados": []
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e45679",
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "data_cadastro": "2023-02-20",
+      "livros_emprestados": ["648f6c9f1f789f65c1e12345"]
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e45680",
+      "nome": "Carlos Souza",
+      "email": "carlos.souza@example.com",
+      "data_cadastro": "2023-03-12",
+      "livros_emprestados": ["648f6c9f1f789f65c1e12346", "648f6c9f1f789f65c1e12349"]
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e45681",
+      "nome": "Ana Lima",
+      "email": "ana.lima@example.com",
+      "data_cadastro": "2023-04-05",
+      "livros_emprestados": []
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e45682",
+      "nome": "Pedro Almeida",
+      "email": "pedro.almeida@example.com",
+      "data_cadastro": "2023-05-30",
+      "livros_emprestados": ["648f6c9f1f789f65c1e12348"]
+    }
+  ]
+  

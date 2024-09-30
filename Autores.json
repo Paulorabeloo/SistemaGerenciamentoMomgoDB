@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "648f6c9f1f789f65c1e23456",
+      "nome": "J.K. Rowling",
+      "nacionalidade": "Britânica",
+      "data_nascimento": "1965-07-31",
+      "livros_publicados": 7
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e23457",
+      "nome": "George R.R. Martin",
+      "nacionalidade": "Americana",
+      "data_nascimento": "1948-09-20",
+      "livros_publicados": 5
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e23458",
+      "nome": "Agatha Christie",
+      "nacionalidade": "Britânica",
+      "data_nascimento": "1890-09-15",
+      "livros_publicados": 85
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e23459",
+      "nome": "J.R.R. Tolkien",
+      "nacionalidade": "Britânica",
+      "data_nascimento": "1892-01-03",
+      "livros_publicados": 10
+    },
+    {
+      "_id": "648f6c9f1f789f65c1e23460",
+      "nome": "Stephen King",
+      "nacionalidade": "Americana",
+      "data_nascimento": "1947-09-21",
+      "livros_publicados": 61
+    }
+  ]
+  

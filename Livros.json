@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "648f6c9f1f789f65c1e12345",
+    "titulo": "O Senhor dos Anéis",
+    "autor_id": "648f6c9f1f789f65c1e23456",
+    "categoria_id": "648f6c9f1f789f65c1e34567",
+    "isbn": "978-3-16-148410-0",
+    "quantidade_estoque": 10,
+    "data_publicacao": "1954-07-29"
+  },
+  {
+    "_id": "648f6c9f1f789f65c1e12346",
+    "titulo": "O Hobbit",
+    "autor_id": "648f6c9f1f789f65c1e23456",
+    "categoria_id": "648f6c9f1f789f65c1e34567",
+    "isbn": "978-0-261-10333-4",
+    "quantidade_estoque": 8,
+    "data_publicacao": "1937-09-21"
+  },
+  {
+    "_id": "648f6c9f1f789f65c1e12347",
+    "titulo": "Dom Quixote",
+    "autor_id": "648f6c9f1f789f65c1e23457",
+    "categoria_id": "648f6c9f1f789f65c1e34568",
+    "isbn": "978-84-376-0494-7",
+    "quantidade_estoque": 5,
+    "data_publicacao": "1605-01-16"
+  },
+  {
+    "_id": "648f6c9f1f789f65c1e12348",
+    "titulo": "1984",
+    "autor_id": "648f6c9f1f789f65c1e23458",
+    "categoria_id": "648f6c9f1f789f65c1e34569",
+    "isbn": "978-0-452-28423-4",
+    "quantidade_estoque": 15,
+    "data_publicacao": "1949-06-08"
+  },
+  {
+    "_id": "648f6c9f1f789f65c1e12349",
+    "titulo": "A Revolução dos Bichos",
+    "autor_id": "648f6c9f1f789f65c1e23458",
+    "categoria_id": "648f6c9f1f789f65c1e34569",
+    "isbn": "978-0-452-28424-1",
+    "quantidade_estoque": 12,
+    "data_publicacao": "1945-08-17"
+  }
+]
